@@ -9,7 +9,7 @@ const Color kDarkPurpleButton = Color(0xFF1B003A);
 const Color kLightBg = Color(0xFFF3F3F3); 
 
 class AppState {
-  static String userName = "Claudio";
+  static String userName = "Claudio Henrique";
   static String userRA = "2004";
   static String? userEmail;
   static String? userPassword;
